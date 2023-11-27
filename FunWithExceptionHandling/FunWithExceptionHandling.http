@@ -1,0 +1,6 @@
+@FunWithExceptionHandling_HostAddress = http://localhost:5177
+
+GET {{FunWithExceptionHandling_HostAddress}}/api/
+Accept: application/json
+
+###
